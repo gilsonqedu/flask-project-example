@@ -32,3 +32,5 @@ vine==1.1.4
 Werkzeug==0.12.2
 WTForms==2.1
 Flask-Script==2.0.5
+flask-marshmallow==0.8.0
+marshmallow==2.13.6
